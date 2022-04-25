@@ -1,5 +1,5 @@
 # Finsheet-Support
-Finsheet provides real-time and historical stock, cryptocurrency and forex prices for Excel and Google Sheets. We also support global fundamental and technical indicators.
+Finsheet provides real-time [Excel stock price](https://finsheet.io/) and [stock price in Google Sheets](https://finsheet.io/). We also support global fundamental and technical indicators. To get started, install our [Excel](https://appsource.microsoft.com/en-us/product/office/WA200003886) and [Google Sheets](https://workspace.google.com/marketplace/app/realtime_stock_and_crypto_price_finsheet/574480000400) add-on
 
 ## Have a question about the add-on?
 
